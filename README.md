@@ -5,4 +5,10 @@
 
 <br />
 
-Hi, I'm Ajay Biswas, currently pursuing M.Tech. in Information Security from NIT Rourkela, India. I have a keen interest in coding and machine learning. In my free time, I develop pc games or do some freelancing work. 
+Hi, I'm Ajay Biswas, currently pursuing M.Tech. in Information Security from NIT Rourkela, India. I have a keen interest in coding and machine learning. In my free time, I develop pc games or do some freelancing work.
+
+![](https://visitor-badge.glitch.me/badge?page_id=ajaybiswas22.ajaybiswas22)
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajaybiswas22&show_icons=true&theme=gotham" alt="ajaybiswas22" />
