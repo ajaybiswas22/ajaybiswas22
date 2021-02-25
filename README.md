@@ -7,6 +7,10 @@
   <img align="left" alt="Ajay's Quora" width="22px" src="https://qsfs.fs.quoracdn.net/-4-images.favicon.ico-26-ebf6a9e7f7b4576d.ico"/>
 </a>
 
+<a href="https://www.hackerrank.com/ajaybiswas22/">
+  <img align="left" alt="Ajay's HackerRank" width="22px" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" />
+</a>
+
 <a href="https://www.tinkercad.com/users/76O66sVOPYW-ajay-biswas/">
   <img align="left" alt="Ajay's Tinkercad" width="22px" src="https://www.tinkercad.com/img/favicon.ico" />
 </a>
