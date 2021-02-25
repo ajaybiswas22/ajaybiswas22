@@ -3,12 +3,12 @@
   <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.tinkercad.com/users/76O66sVOPYW-ajay-biswas/">
-  <img align="left" alt="Ajay's Tinkercad" width="64px" src="https://editor.tinkercad.com/assets_2eativ4/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg" />
-</a>
-
 <a href="https://www.quora.com/profile/Ajay-Biswas-7/">
   <img align="left" alt="Ajay's Quora" width="22px" src="https://qsfs.fs.quoracdn.net/-4-images.favicon.ico-26-ebf6a9e7f7b4576d.ico"/>
+</a>
+
+<a href="https://www.tinkercad.com/users/76O66sVOPYW-ajay-biswas/">
+  <img align="left" alt="Ajay's Tinkercad" width="22px" src="https://www.tinkercad.com/img/favicon.ico" />
 </a>
 
 <br />
