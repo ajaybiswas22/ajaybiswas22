@@ -3,6 +3,10 @@
   <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.tinkercad.com/users/76O66sVOPYW-ajay-biswas/">
+  <img align="left" alt="Ajay's Tinkercad" width="64px" src="https://editor.tinkercad.com/assets_2eativ4/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg" />
+</a>
+
 <br />
 
 Hi, I'm Ajay Biswas, currently pursuing M.Tech. in Information Security from NIT Rourkela, India. I have a keen interest in coding and machine learning. In my free time, I develop pc games or do some freelancing work.
