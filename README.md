@@ -15,6 +15,8 @@
   <img align="left" alt="Ajay's Tinkercad" width="22px" src="https://www.tinkercad.com/img/favicon.ico" />
 </a>
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0022-5838" href="https://orcid.org/0000-0002-0022-5838" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0022-5838</a></div>
+
 <br />
 
 Hi, I'm Ajay Biswas, currently pursuing M.Tech. in Information Security from NIT Rourkela, India. I have a keen interest in coding and machine learning. In my free time, I develop pc games or do some freelancing work.
