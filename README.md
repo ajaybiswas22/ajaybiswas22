@@ -3,9 +3,11 @@
   <img align="left" alt="Ajay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<!--
 <a href="https://www.quora.com/profile/Ajay-Biswas-7/">
   <img align="left" alt="Ajay's Quora" width="22px" src="https://qsfs.fs.quoracdn.net/-4-images.favicon.ico-26-ebf6a9e7f7b4576d.ico"/>
 </a>
+-->
 
 <a href="https://www.hackerrank.com/ajaybiswas22/">
   <img align="left" alt="Ajay's HackerRank" width="22px" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" />
@@ -19,7 +21,7 @@
 
 <br />
 
-Hi, I'm Ajay Biswas, currently pursuing M.Tech. in Information Security from NIT Rourkela, India. I have a keen interest in coding and machine learning. In my free time, I develop pc games or do some freelancing work.
+Hi, I'm Ajay Biswas, currently pursuing M.Tech. in Information Security from NIT Rourkela, India. I have a keen interest in coding and machine learning. In my free time, I do freelancing or teaching.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ajaybiswas22.ajaybiswas22)
 
